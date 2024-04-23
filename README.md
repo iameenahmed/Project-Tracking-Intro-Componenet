@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/project-tracking-intro-component](https://www.frontendmentor.io/solutions/project-tracking-intro-component)
+- Solution URL: [frontendmentor.io/solutions/project-tracking-intro-component](https://www.frontendmentor.io/solutions/project-tracking-intro-component-using-reactjs-Xnv7dBFnN-)
 
 ## My process
 
